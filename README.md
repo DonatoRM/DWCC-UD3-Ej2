@@ -1,4 +1,5 @@
 # DWCC-UD3-Ej2
+
 <h1>Ejercicio 2 del boletín de la Unidad 3 de Desarrollo Web de Entorno Cliente (Modelo de Objetos Predefinidos en JavaScript - Math)</h1>
 <ol>
   <li>Haz una función que permita generar una lista de N números enteros aleatorios distintos comprendidos entre 2 números concretos.</li>
